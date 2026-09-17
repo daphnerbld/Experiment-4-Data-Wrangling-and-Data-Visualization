@@ -218,7 +218,7 @@ Highest Hometown Mean
 0    Luzon  68.083333
 ```
 
-**Interpretation Statements:**
+**Interpretation:**
 1. **Track:** In the observed dataset, students in the Communication track achieved the highest sample mean average grade of 67.975.
 2. **Gender:** In the observed dataset, Male students achieved the highest sample mean average grade of 67.183.
 3. **Hometown:** In the observed dataset, students from Luzon achieved the highest sample mean average grade of 68.083.
